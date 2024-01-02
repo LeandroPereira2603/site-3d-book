@@ -172,6 +172,12 @@ body{
 
 }
 
+.btn:hover{
+
+    background: transparent;
+    color: var(--main-color);
+}
+
 .btn-box .btn:nth-child(2){
     background: transparent;
     color: var(--main-color);
