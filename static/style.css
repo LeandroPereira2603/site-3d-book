@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap");
-/* 20:49  codehal*/
+/* 21;36  codehal*/
 *{
     margin: 0;
     padding: 0;
@@ -186,4 +186,10 @@ body{
 .btn-box .btn:nth-child(2):hover{
     background: var(--main-color);
     color: var(--white-color);
+}
+
+.book-page.page-right{
+    position: absolute;
+    right: 0;
+
 }
