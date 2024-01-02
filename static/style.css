@@ -98,8 +98,8 @@ body{
 
 }
 .profile-page  img {
-    width: 150px;
-    max-height: 150px;
+    width: 180px;
+    max-height: 180px;
     border-radius: 50%;
     border : .25rem solid var(--main-color);
     margin-bottom: .8rem;
